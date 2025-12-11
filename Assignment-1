@@ -1,0 +1,76 @@
+task-1
+name=input ("your_first name niga:")
+surname=input ("your_last name:")
+age=input ("write your age:")
+phone_n=input ("write your phone_number:")
+print("Your firstname ", name,' ' ,"Your last name ", surname)
+print ("Your age:" ,age)
+print("Your phone_number: ", phone_n)
+task-2
+a,b,c=map(int, input().split())
+max_num=max (a, b,c)
+min_num-min(a, b, c)
+print (max_num-min_num)
+task-3
+num=float (input ("write number:"))
+num1=( (num*100)&100)
+num2=int (num
+float_n=num2/100
+new_num=float_n+num1
+print (new_num)|
+taks-4
+n=int(input("write the anu num"))
+num=0
+i=1
+- while (i<=n) :
+num +=n
+it+
+print (num)
+task-5
+n=int(input("write the anu num"))
+num=( (n/2)-8) /5
+print("This is initial number: "num)
+task-6
+a=int(input("write first number: "))
+c=int(input("write second number: "))
+b=input("the operation: ")
+if b == '-':
+result=a-c
+elif b == *+*:
+result=a+c
+elif b == '/*:
+if a == 0:
+print("we cant devide to 0")
+exito
+else:
+result=a/c
+elif b == ***:
+result=a*c
+else:
+print("we cant do this")
+print("Your result is:", result)
+task-7 
+(same as a task-6)
+a=int(input("write first number: "))
+c=int(input("write second number: "))
+b=input("the operation: ")
+if b == '-':
+result=a-c
+elif b == *+*:
+result=a+c
+elif b == '/*:
+if a == 0:
+print("we cant devide to 0")
+exito
+else:
+result=a/c
+elif b == ***:
+result=a*c
+else:
+print("we cant do this")
+print("Your result is:", result)
+task-8
+word=input("write the word: ")
+num=int(input("write the num: "))
+for i in word:
+print(i * num)
