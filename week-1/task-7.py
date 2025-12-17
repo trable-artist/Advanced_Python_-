@@ -13,3 +13,6 @@ else:
 result=a/c
 elif b == ***:
 result=a*c
+else:
+print("we cant do this")
+print("Your result is:", result)
