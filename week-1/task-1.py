@@ -1,4 +1,4 @@
-name=input ("your_first name niga:")
+name=input ("your_first name:")
 surname=input ("your_last name:")
 age=input ("write your age:")
 phone_n=input ("write your phone_number:")
