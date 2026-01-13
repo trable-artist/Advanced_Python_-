@@ -1,0 +1,8 @@
+number of words: 8
+number of lines: 2
+frequency of words:
+мама:2
+мыла:2
+раму:2
+очень:1
+чисто:1
