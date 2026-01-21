@@ -23,5 +23,5 @@ class BankAccount:
 B1=BankAccount("Nick", 100)
 B2=BankAccount("Iden", 5000)
 B3=BankAccount("Grey", 3000)
-B1.withdraw(50)
-print(B1.get_balance())
+B3.withdraw(3200)
+print(B3.get_balance())
